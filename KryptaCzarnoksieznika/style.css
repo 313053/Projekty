@@ -1,0 +1,13 @@
+html, body
+{
+    background: darkgray;
+}
+
+canvas
+{
+    background: rgb(47, 54, 61);
+    display: block;
+    margin: 0 auto;
+    border: solid 6px black;
+    border-radius: 10px;
+}
